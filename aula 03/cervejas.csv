@@ -1,0 +1,16 @@
+id,copo,espuma,cor,temperatura,classe
+1,Pint,Média,Clara,3,Pilsen
+2,Tulipa,Alta,Âmbar,8,IPA
+3,Snifter,Alta,Escura,12,Stout
+4,Weizen,Média,Clara,5,Weiss
+5,Caneca,Baixa,Clara,4,Lager
+6,Tulipa,Alta,Âmbar,8,Red Ale
+7,Snifter,Alta,Escura,12,Porter
+8,Pint,Média,Âmbar,8,APA
+9,Taça,Alta,Clara,9,Saison
+10,Caneca,Baixa,Âmbar,9,Bock
+11,Weizen,Média,Clara,5,Witbier
+12,Snifter,Alta,Escura,14,Imperial Stout
+13,Pint,Média,Clara,7,Golden Ale
+14,Tulipa,Alta,Âmbar,10,Double IPA
+15,Caneca,Baixa,Escura,9,Dunkel
